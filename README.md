@@ -1,7 +1,4 @@
 <div align="center">
-  <!-- 动态渐变波浪流光横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Jun%20👋&fontSize=42&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Digital%20Twin%20%26%20GIS%20Visualization%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
   <!-- 动态打字机效果 -->
   <a href="https://github.com/huangjunGGY">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=%E4%B8%93%E6%B3%88%E4%BA%8E+Vue3+%E9%AB%98%E6%80%A7%E8%83%BD%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F%E4%B8%8E%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%A4%A7%E5%B1%8F;GIS+%E7%A9%BA%E9%97%B4%E6%80%81%E5%8A%BF%E6%84%9F%E7%9F%A5+%26+Three.js+%E4%B8%89%E7%BB%B4%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84;Full-Stack+Engineer+%7C+Java+%26+Python+%26+Modern+Web;Crafting+Pixel-Perfect+%26+High-Performance+Applications" alt="Typing SVG" />
