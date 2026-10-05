@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 顶部科技渐变动态背景条 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26,30&height=180&section=top&text=Huang%20Jun%20(破客)&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Architect%20%7C%20AI%20Agent%20Explorer%20%7C%20Digital%20Twin%20Engineer&descFontSize=16&descAlignY=60&descColor=38bdf8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26,30&height=180&section=top&text=Huang%20Jun%20&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Architect%20%7C%20AI%20Agent%20Explorer%20%7C%20Digital%20Twin%20Engineer&descFontSize=16&descAlignY=60&descColor=38bdf8" width="100%"/>
 
   <!-- 动态打字机效果（已扩充：AI Native、微前端、WebGPU、大屏架构） -->
   <a href="https://github.com/huangjunGGY">
